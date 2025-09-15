@@ -1,3 +1,3 @@
 module github.com/samucodesh/curso-github-actions
 
-go 1.20.14
+go 1.23
